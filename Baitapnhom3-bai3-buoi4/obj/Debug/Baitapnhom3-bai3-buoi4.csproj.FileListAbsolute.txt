@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\bin\Debug\Baitapnhom3-bai3-buoi4.exe.config
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\bin\Debug\Baitapnhom3-bai3-buoi4.exe
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\bin\Debug\Baitapnhom3-bai3-buoi4.pdb
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\obj\Debug\Baitapnhom3-bai3-buoi4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\obj\Debug\Baitapnhom3-bai3-buoi4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\obj\Debug\Baitapnhom3-bai3-buoi4.exe
+C:\Users\LENOVO\source\repos\Baitapnhom3-bai3-buoi4\Baitapnhom3-bai3-buoi4\obj\Debug\Baitapnhom3-bai3-buoi4.pdb
